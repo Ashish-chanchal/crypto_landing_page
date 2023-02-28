@@ -109,6 +109,14 @@ table{
 .content{
     margin: 10px;
 }
+.grey{
+    color: grey;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.downtxt{
+    margin-top: 10px;
+}
 .logo-c{
     display: flex;
 
@@ -305,7 +313,5 @@ table{
     .navitem{
         width:20%
     }
-    .wrap-menu{
-        width:20%;
-    }
+  
   }
